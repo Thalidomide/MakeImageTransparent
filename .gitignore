@@ -1,0 +1,11 @@
+Res
+*ReSharper*
+*.suo
+*.user
+TestResults/
+*.testsettings
+Debug/
+Release/
+bin/
+obj/
+.vs/
